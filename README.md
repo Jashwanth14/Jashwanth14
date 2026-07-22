@@ -154,3 +154,97 @@ Scalable Software Engineering
 ```
 
 ---
+# 🚀 Featured Projects
+
+<div align="center">
+
+Projects where I combine AI, engineering, and creativity to build practical solutions.
+
+</div>
+
+---
+
+## 🌍 Traveler Hub
+
+### Full Stack Travel Planning Platform
+
+A modern travel platform designed to simplify trip planning and create personalized travel experiences.
+
+### ✨ Highlights
+
+- 🗺️ Interactive travel experience
+- 🔐 Secure user authentication
+- 🌐 Modern responsive interface
+- ⚡ Full-stack architecture
+
+### 🧰 Tech Stack
+
+`Next.js` `React` `Tailwind CSS` `MongoDB` `Mongoose` `Clerk`
+
+🔗 Repository: [View Project](https://github.com/Jashwanth14/travel-hub)
+
+---
+
+## 🧠 Explainable AI Based Emotion Recognition System
+
+### Understanding Human Emotions Through Computer Vision
+
+An AI-powered system that recognizes facial emotions while providing explainable insights into model predictions.
+
+### ✨ Highlights
+
+- 👁️ Computer Vision based emotion analysis
+- 🤖 Deep Learning approach
+- 🔍 Explainable AI integration
+- 📊 Model interpretation
+
+### 🧰 Tech Stack
+
+`Python` `TensorFlow` `OpenCV` `Deep Learning` `XAI`
+
+🔗 Repository: [View Project](https://github.com/Jashwanth14/mini-1)
+
+
+
+
+---
+
+## 🤖 Agentic AI Experiments
+
+### Exploring Autonomous AI Systems
+
+Researching and building applications using modern AI concepts including:
+
+- LLM workflows
+- AI agents
+- Tool-based reasoning
+- Automation systems
+
+### 🧰 Tech Stack
+
+`Python` `LLMs` `LangChain` `AI Agents`
+
+---
+
+## 🌐 Personal Portfolio Website
+
+### My Digital Identity
+
+A personal portfolio showcasing my projects, experience, and technical journey.
+
+### ✨ Highlights
+
+- Modern UI design
+- Responsive experience
+- Project showcase
+- Developer branding
+
+### 🧰 Tech Stack
+
+`Next.js` `React` `Tailwind CSS` `Vercel`
+
+🔗 Website: [Visit Portfolio](jashnaik.vercel.app)
+
+
+---
+
