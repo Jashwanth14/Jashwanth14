@@ -47,6 +47,23 @@ I enjoy combining machine learning, backend engineering, and modern frontend tec
 Beyond software development, I have experience in leadership, branding, and creative storytelling, allowing me to bridge the gap between technology and user experience.
 
 ---
+---
+
+# 💭 Engineering Philosophy
+
+> *"I believe great software isn't just about writing code—it's about solving real problems, creating meaningful experiences, and continuously improving through curiosity and craftsmanship."*
+
+I enjoy working at the intersection of **Artificial Intelligence**, **Full Stack Development**, and **Product Thinking**. Every project I build is an opportunity to learn, iterate, and create something that has real-world impact.
+
+Whether it's an AI model, a modern web application, or an automation workflow, my goal is to build software that is:
+
+- 🧠 Intelligent
+- ⚡ Performant
+- 🎨 User-focused
+- 🔒 Reliable
+- 📈 Scalable
+
+---
 
 ## 💡 Current Focus
 
@@ -247,4 +264,20 @@ A personal portfolio showcasing my projects, experience, and technical journey.
 
 
 ---
+# 📊 GitHub at a Glance
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jashwanth14&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashwanth14&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jashwanth14&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
