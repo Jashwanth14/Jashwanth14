@@ -58,3 +58,99 @@ Beyond software development, I have experience in leadership, branding, and crea
 - 💙 Contributing to impactful open-source projects
 
 ---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,sql" />
+
+<br/><br/>
+
+### Artificial Intelligence & Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+
+<br/><br/>
+
+### Full Stack Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind" />
+
+<br/><br/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,postman" />
+
+</div>
+
+---
+
+# 💼 Experience & Leadership
+
+## 🚀 Founder — THE BOOT CONNECT
+
+Creative technology initiative focused on:
+
+- 🎬 Video production & editing
+- 🎨 Branding & digital design
+- 📱 Social media content strategy
+- ✨ Creative solutions for businesses
+
+---
+
+## 🎤 PR Secretary — IIIT Raichur
+
+Leading communication and media initiatives by:
+
+- Managing institute-level campaigns
+- Coordinating student teams
+- Creating digital content
+- Supporting major college events
+
+---
+
+## 📷 Photography Club Coordinator
+
+Combining technology and storytelling through:
+
+- Event photography
+- Visual storytelling
+- Media production
+- Creative direction
+
+---
+
+## 🎥 Freelance Creative Developer
+
+Worked with clients on:
+
+- Video editing
+- Content creation
+- Digital branding
+- Social media creatives
+
+---
+
+# 🌱 Currently Learning
+
+```text
+Artificial Intelligence
+        ↓
+Agentic AI Systems
+        ↓
+Large Language Models
+        ↓
+Full Stack Product Development
+        ↓
+Scalable Software Engineering
+```
+
+---
